@@ -47,7 +47,7 @@ ORM: Eloquent ORM Eloquent giúp thao tác với CSDL thông qua các model như
 Tìm kiếm & Tương tác bất đồng bộ: AJAX (JQuery) Sử dụng AJAX giúp thao tác mượt mà mà không cần tải lại trang.
 
 📌 Project Repository
-🔗 [View full source code on GitHub]( https://github.com/buihung05/classroom_management)
+🔗 [View full source code on GitHub]( [https://github.com/buihung05/classroom_management](https://github.com/buihung05/classroom_management/tree/main/quanly_lophoc))
 
 ## 🔐 Sample Accounts
 
